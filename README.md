@@ -4,7 +4,7 @@ I am a Master’s student in Physics at LMU Munich, specializing in data science
 ### Current Projects:
 Here are selected scripts from projects I am working on:
 
-**[ZUNN](https://github.com/nepmo/zunn_publ) Z-Uncertainty Neural Network**
+**[zunn](https://github.com/nepmo/zunn_publ) Z-Uncertainty Neural Network**
 
 Trains a neural network to predict redshift uncertainty from galaxy spectra.
 
