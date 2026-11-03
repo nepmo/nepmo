@@ -12,10 +12,9 @@ A two-branch 1D ResNet (PyTorch, Optuna) that emulates how confident the 4MOST r
 for a galaxy spectrum. R² 0.857 and 93.7 % accept/reject accuracy, in under a millisecond per galaxy
 instead of about 7 seconds. Part of the forward model of the 4C3R2 survey.
 
-**[submitinf](https://github.com/nepmo/submitinf_publ): Submitting Author Inference** · *Max Planck Information and Technology*
+**[som-visualization](https://github.com/nepmo/som-visualization): Self-Organizing Map demo**
 
-A PostgreSQL framework that infers the submitting author and APC-paying institution of publications from
-Web of Science records, comparing many inference methods against DEAL ground-truth data.
+A self-organizing map trained on RGB colours, with an [interactive browser demo](https://nepmo.github.io/som-visualization/).
 
 **[fimoni](https://github.com/nepmo/fimoni_publ): File Monitoring** · *Max Planck Information and Technology*
 
@@ -26,11 +25,12 @@ reports them to Slack or Mattermost.
 
 SLURM launcher, configuration and visualization for building the 4C3R2 target catalog.
 
-**[som-visualization](https://github.com/nepmo/som-visualization): Self-Organizing Map demo**
+**[submitinf](https://github.com/nepmo/submitinf_publ): Submitting Author Inference** · *Max Planck Information and Technology*
 
-A self-organizing map trained on RGB colours, with an [interactive browser demo](https://nepmo.github.io/som-visualization/).
+A PostgreSQL framework that infers the submitting author and APC-paying institution of publications from
+Web of Science records, comparing many inference methods against DEAL ground-truth data.
 
-<sub>submitinf, fimoni and target_selection are public excerpts of institutional or unpublished code; each README says what is included.</sub>
+<sub>fimoni, target_selection and submitinf are public excerpts of institutional or unpublished code; each README says what is included.</sub>
 
 ### Stack
 
