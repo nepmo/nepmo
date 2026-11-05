@@ -2,7 +2,7 @@
 
 Physicist (M.Sc. Physics, LMU Munich, 2026) and data scientist at Max Planck Information and Technology. I build deep
 learning models for scientific measurement data and the data pipelines around them. I'm especially
-interested in medical physics, astrophysics and foundation models.
+interested in medical physics, deep learning and astrophysics.
 
 ### Projects
 
@@ -29,8 +29,6 @@ SLURM launcher, configuration and visualization for building the 4C3R2 target ca
 
 A PostgreSQL framework that infers the submitting author and APC-paying institution of publications from
 Web of Science records, comparing many inference methods against DEAL ground-truth data.
-
-<sub>fimoni, target_selection and submitinf are public excerpts of institutional or unpublished code; each README says what is included.</sub>
 
 ### Stack
 
