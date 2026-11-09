@@ -1,10 +1,16 @@
-### Hi, I'm Moritz 👋
+### Hi, I'm **`Moritz`** ⚕️🪐☁️
 
 Physicist (M.Sc. Physics, LMU Munich, 2026) and data scientist at Max Planck Information and Technology. I build deep
-learning models for scientific measurement data and the data pipelines around them. I'm especially
-interested in medical physics, deep learning and astrophysics.
+learning models for scientific measurement data and the data pipelines around them. I'm especially interested in deep learning, medical physics and astrophysics.
 
 ### Projects
+
+**[reading_medical_weights](https://github.com/nepmo/reading_medical_weights): Can an LLM audit a medical classifier from its weights alone?** · *in progress*
+
+Tests whether a frontier LLM (Claude Opus 5.5) can find shortcuts in a small lung-nodule classifier
+(LIDC-IDRI CT) by reading only its raw weights, without any data. Pilot run: planted shortcuts found and
+located in 15/15 audits, controls correctly cleared in 10/15. Next: shortcuts on real CT crops that get
+harder to see, up to scanner and image-quality shortcuts.
 
 **[zunn](https://github.com/nepmo/zunn_publ): Z-Uncertainty Neural Network** · *M.Sc. thesis*
 
