@@ -18,7 +18,7 @@ A two-branch 1D ResNet (PyTorch, Optuna) that emulates how confident the 4MOST r
 for a galaxy spectrum. R² 0.857 and 93.7 % accept/reject accuracy, in under a millisecond per galaxy
 instead of about 7 seconds. Part of the forward model of the 4C3R2 survey.
 
-**[som-visualization](https://github.com/nepmo/som-visualization): Self-Organizing Map demo**
+**[som_visualization](https://github.com/nepmo/som-visualization): Self-Organizing Map demo**
 
 A self-organizing map trained on RGB colours, with an [interactive browser demo](https://nepmo.github.io/som-visualization/).
 
