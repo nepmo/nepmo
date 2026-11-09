@@ -1,6 +1,6 @@
 ### Hi, I'm **`Moritz`** ⚕️🪐☁️
 
-Physicist (M.Sc. Physics, LMU Munich, 2026) and data scientist at Max Planck Information and Technology. I build deep
+Physicist (M.Sc. Physics, LMU Munich, 2026) and Research Information Data Scientist at Max Planck Information and Technology. I build deep
 learning models for scientific measurement data and the data pipelines around them. I'm especially interested in deep learning, medical physics and astrophysics.
 
 ### Projects
